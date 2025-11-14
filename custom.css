@@ -7,11 +7,19 @@ body {
   border-radius: 12px;         /* rounded corners */
   padding: 20px;               /* spacing inside */
   box-shadow: 0 0 15px rgba(0,0,0,0.3); /* subtle shadow */
+  justify-content: center;
 }
 
 .center {
   text-align: center;
   font-size: 2.8rem;
-  color: #353552;
 }
 
+.center-link a {
+  text-align: center;
+  color: #104E8B;
+}
+
+.center-link a:hover {
+  color: #0000EE;
+}

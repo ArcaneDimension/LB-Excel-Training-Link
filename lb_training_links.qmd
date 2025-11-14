@@ -1,0 +1,16 @@
+---
+format:
+  revealjs:
+    scrollable: true
+    theme: simple
+    css: custom.css
+editor: visual
+---
+
+# <a href="https://bit.ly/DACDataM" target="_blank">*bit.ly/DACDataM*</a>
+
+<br>
+
+# <a href="https://bit.ly/LBExcelExercise" target="_blank">*bit.ly/LBExcelExercise*</a>
+
+<img src="bit.ly_LBExcelExercise.png" alt="Line Chart" height="480" style="border:8px solid #ccc;"/>

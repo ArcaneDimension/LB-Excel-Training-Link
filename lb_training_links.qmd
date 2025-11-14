@@ -17,7 +17,7 @@ editor: visual
 :::
 
 ::: {.center-link}
-# <a href="https://bit.ly/LBExcelExercise" target="_blank">bit.ly/LBExcelExercise</a>
+# <a href="https://bit.ly/LBExcelPreTest1and2" target="_blank">bit.ly/LBExcelPreTest1and2</a>
 
-<img src="bit.ly_LBExcelExercise.png" alt="Line Chart" height="480" style="border:8px solid #ccc;"/>
+<img src="bit.ly_LBExcelPreTest1and2.png" alt="Line Chart" height="480" style="border:8px solid #ccc;"/>
 :::
